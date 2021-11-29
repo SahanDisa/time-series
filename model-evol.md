@@ -1,4 +1,4 @@
-# <center>From AR to SARIMAX: Mathematical Definitions of Time Series Models</center>
+# <center>Classical Models from AR to SARIMAX: Mathematical Definitions</center>
 
 ## Overview
 
