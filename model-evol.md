@@ -88,3 +88,5 @@ $$ \Theta(L)^{p} \theta(L^{s})^{P} \Delta^{d} \Delta_{s}^{D} y_{t} = \Phi(L)^{q}
 ## Further References
 
 Chatfield, C 2004, *The Analysis of Time Series : An Introduction*, 6th ed., Chapman & Hall/CRC, Boca Raton, Fla.
+
+Hyndman, R.J., & Athanasopoulos, G. (2021) Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. OTexts.com/fpp3. Accessed on 25-11-2021
