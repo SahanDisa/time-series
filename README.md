@@ -1,2 +1,3 @@
 # time-series
-For Time Series Analysis
+
+This repository is a comprehensive knowledge base for Time Series Analysis
